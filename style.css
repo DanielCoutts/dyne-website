@@ -1,8 +1,27 @@
 html {
-    background: blue;
+    background: #BBDEFB;
 }
 
 #container {
+    padding-top: 5em;
+}
+
+#logo, #phone, #play {
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#logo {
+     width: 5em;
+}
+
+#phone {
+     width: 12em;
+}
+
+#play {
+     width: 15em;
 }
